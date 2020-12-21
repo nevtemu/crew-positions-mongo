@@ -1,0 +1,23 @@
+{
+  "name": "crew-positions-mongo",
+  "version": "1.0.0",
+  "description": "Automatic allocation of crew positions",
+  "main": "crew.js",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevtemu/crew-positions-mongo.git"
+  },
+  "author": "Artem Soroka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevtemu/crew-positions-mongo/issues"
+  },
+  "homepage": "https://github.com/nevtemu/crew-positions-mongo#readme"
+}
